@@ -1,3 +1,19 @@
 # firefighter_adb
 
-just helping out with some examples
+---
+## Database structure
+
+####Tables:  
+- tblHoseInv
+- tblTextHx
+
+####Forms: 
+- frmHoseSummary
+- frmEditHoseHx
+
+####VBA: 
+- too much to list, see code section for breakdown
+
+
+#### Macro:
+- AutoExec to open frmHoseSummary
