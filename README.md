@@ -3,15 +3,15 @@
 ---
 ## Database structure
 
-####Tables:  
+#### Tables:  
 - tblHoseInv
 - tblTextHx
 
-####Forms: 
+#### Forms: 
 - frmHoseSummary
 - frmEditHoseHx
 
-####VBA: 
+#### VBA: 
 - too much to list, see code section for breakdown
 
 
